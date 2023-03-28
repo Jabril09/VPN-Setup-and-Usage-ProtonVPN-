@@ -22,8 +22,8 @@ In this tutorial, we will create a virtual machine in azure and setup ProtonVPN 
 
 <h2>High-Level Steps</h2>
 
-- Step 1 - sign into portal.azure.com
-- Step 2 - create a virtual machines 
+- Step 1 - Sign into portal.azure.com
+- Step 2 - Create a virtual machine. Then from your personal computer open up note pad then go to https://whatismyipaddress.com/ and take note of your IP adress.
 - Step 3
 - Step 4
 - Step 5
