@@ -86,3 +86,10 @@ Now go back to https://whatismyipaddress.com/ and refresh the page. Notice now t
 Open a new tab and go to nba.com to observe the website in japenese. Since your using a vpn from Japan, now when you surf the web everything will mainly be in japenese.
 </p>
 <br />
+</p>
+<br /><img src="https://i.imgur.com/OXXsAtt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Make sure to go to Portal.Azure.com and delete resource group and Virtual Machine so you dont use up all of your credits.
+</p>
+<br />
