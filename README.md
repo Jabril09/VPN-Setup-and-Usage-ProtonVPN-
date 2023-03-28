@@ -25,10 +25,10 @@ In this tutorial, we will create a virtual machine in azure and setup ProtonVPN 
 - Step 1 - Sign into portal.azure.com
 - Step 2 - Create a virtual machine. Then from your personal computer open up note pad then go to https://whatismyipaddress.com/ and take note of your IPv4 adress and location.
 - Step 3 - With VM machine you just created start remote desktop to connect to virtual machine. In Azure go to virtual machines then get that virtual machines IP address and copy that IP address into the remote desktop control. To get to remote desktop connection, type remote in the search bar (if using pc) and click remote desktop connection.
-- Step 4
-- Step 5
-- Step 6
-
+- Step 4 - Connect to remote desktop. Once connected copy and paste the https://account.protonvpn.com/dashboard into the web browser. From there sign into proton vpn with your user name and password you created. Then go to downloads and download Proton VPN to the virtual machine you created and the Proton VPN app should be in the virtual machine desktop.  
+- Step 5 - 
+- Step 6 - 
+- Step 7 - 
 <h2>Actions and Observations</h2>
 
 <p>
@@ -65,7 +65,7 @@ Here is how it looks when you get to remote desktop connection. Paste the IP add
 <img src="https://i.imgur.com/rXuMCr5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once connected copy and paste the https://account.protonvpn.com/dashboard into the web browser. From there sign into proton vpn with your user name and password you created. Then go to downloads and download Proton VPN to the virtual machine you created and the Proton VPN app shoukld be in the virtual machine desktop. 
+Once connected copy and paste the https://account.protonvpn.com/dashboard into the web browser. From there sign into proton vpn with your user name and password you created. Then go to downloads and download Proton VPN to the virtual machine you created and the Proton VPN app should be in the virtual machine desktop. 
 </p>
 <br />
 <p>
