@@ -80,9 +80,9 @@ Notice how before your IP address was different and it was from oslo Norway. Ope
 <p>
 Now go back to https://whatismyipaddress.com/ and refresh the page. Notice now the IP address is different now and now the region/city is Japan. 
 </p>
-<br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><img src="https://i.imgur.com/ufqxfo4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open a new tab and go to nba.com to observe the website in japenese. Since your using a vpn from Japan, now when you surf the web everything will mainly be in japenese.
 </p>
 <br />
