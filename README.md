@@ -43,7 +43,7 @@ Sign into portal.azure.com. After signing in look above to find Virtual Machines
 <img src="https://i.imgur.com/WdiyvR1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create the Virtual Machine (VM) and make region something else other than your region/country.
+Create the Virtual Machine (VM) and make region something else other than your region/country. Keep tabs of the note pad that you wrote your original region/city and IPv4 address.
 </p>
 <br />
 
