@@ -26,9 +26,9 @@ In this tutorial, we will create a virtual machine in azure and setup ProtonVPN 
 - Step 2 - Create a virtual machine. Then from your personal computer open up note pad then go to https://whatismyipaddress.com/ and take note of your IPv4 adress and location.
 - Step 3 - With VM machine you just created start remote desktop to connect to virtual machine. In Azure go to virtual machines then get that virtual machines IP address and copy that IP address into the remote desktop control. To get to remote desktop connection, type remote in the search bar (if using pc) and click remote desktop connection.
 - Step 4 - Connect to remote desktop. Once connected copy and paste the https://account.protonvpn.com/dashboard into the web browser. From there sign into proton vpn with your user name and password you created. Then go to downloads and download Proton VPN to the virtual machine you created and the Proton VPN app should be in the virtual machine desktop.  
-- Step 5 - 
-- Step 6 - 
-- Step 7 - 
+- Step 5 - Go to Proton VPN app in your virtual machine. Sign in. Once signed in click Japan to connect. Refresh the https://whatismyipaddress.com/ tab and notice how the IP address changed and the region/city.
+- Step 6 - Next go to nba.com and notice how the webpage now is in japenese. You dont have to pick Japan, you can pick anywhere you want. Pretty cool!
+- Step 7 - make sure to delete your resourse group and virtual machine when done so you wont use all your free subscription.
 <h2>Actions and Observations</h2>
 
 <p>
@@ -72,13 +72,13 @@ Once connected copy and paste the https://account.protonvpn.com/dashboard into t
 <img src="https://i.imgur.com/MlsoL5K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Notice how before your IP address was different and it was from oslo Norway. Open the Proton VPN app and click connect to japan.
 </p>
 <br />
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ijEPJmW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-.
+Now go back to https://whatismyipaddress.com/ and refresh the page. Notice now the IP address is different now and now the region/city is Japan. 
 </p>
 <br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
