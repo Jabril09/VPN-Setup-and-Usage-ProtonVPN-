@@ -1,32 +1,29 @@
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="https://cdn.pixabay.com/photo/2019/11/19/08/44/map-4636843_960_720.jpg" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+<h1>VPN Setup and Usage (ProtonVPN)</h1>
+In this tutorial, we will create a virtual machine in azure and setup ProtonVPN to test connection and observe searching the web in a different counrty. <br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
+- ProtonVPN Setup
+
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
+- Step 1 - sign into portal.azure.com
+- Step 2 - create a virtual machines 
 - Step 3
 - Step 4
 - Step 5
