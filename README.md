@@ -28,7 +28,7 @@ In this tutorial, we will create a virtual machine in azure and setup ProtonVPN 
 - Step 4 - Connect to remote desktop. Once connected copy and paste the https://account.protonvpn.com/dashboard into the web browser. From there sign into proton vpn with your user name and password you created. Then go to downloads and download Proton VPN to the virtual machine you created and the Proton VPN app should be in the virtual machine desktop.  
 - Step 5 - Go to Proton VPN app in your virtual machine. Sign in. Once signed in click Japan to connect. Refresh the https://whatismyipaddress.com/ tab and notice how the IP address changed and the region/city.
 - Step 6 - Next go to nba.com and notice how the webpage now is in japenese. You dont have to pick Japan, you can pick anywhere you want. Pretty cool!
-- Step 7 - Make sure to delete your resourse group and virtual machine when done so you wont use all your free subscription.
+- Step 7 - Make sure to delete your resourse group and virtual machine when done so you won't use all your free subscription.
 <h2>Actions and Observations</h2>
 
 <p>
